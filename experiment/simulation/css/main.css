@@ -20,7 +20,7 @@
 }
 
 .heavy2 {
-  font-size: 0.5rem;
+  font-size: 0.4rem;
 }
 
 .heavy3 {
@@ -127,5 +127,21 @@ figcaption {
     margin-right: 0.5%;
     display: block;
     word-break: break-word;
+  }
+
+  #gel-mold {
+    height: 90pt;
+  }
+
+  #gel-comb {
+    height: 50pt;
+  }
+
+  #dye-kit {
+    height: 90pt;
+  }
+
+  #chamber {
+    height: 130pt;
   }
 }
