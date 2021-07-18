@@ -81,6 +81,7 @@ async function movePipette() {
     let startY = "150%";
 
     screenWidth();
+    console.log("divWudth is:", divWidth);
 
     if (divWidth > 1759) {
       startY = "-150%";
