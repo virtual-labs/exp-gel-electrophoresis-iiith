@@ -2,9 +2,9 @@ Suppose a particle with charge, +Q, is moving toward the negative electrode (cat
 
 F<sub>net</sub> = F<sub>e</sub> + F<sub>fr</sub> = 0	
 
-The frictional force is given by, F<sub>fr</sub> = -f<sub>v</sub> , where f is a constant called the frictional coefficient and v is the velocity of the particle. The frictional coefficient, f, depends on the size and shape of the molecule. For a spherical particle the frictional coefficient is given by f = 6 £S£bRs, where £b is¡P is the coefficient of viscosity and Rs (Stokes radius) is the radius of the hydrated sphere.
+The frictional force is given by, F<sub>fr</sub> = -f<sub>v</sub> , where f is a constant called the frictional coefficient and v is the velocity of the particle. The frictional coefficient, f, depends on the size and shape of the molecule. For a spherical particle the frictional coefficient is given by f = 6 <span>&#163;</span> S<span>&#163;</span> bRs, where Â£b isÂ¡P is the coefficient of viscosity and Rs (Stokes radius) is the radius of the hydrated sphere.
 
-From the above equations, one obtains f<sub>v</sub> = QE, or U (electrophoretic mobility) = v/E = Q/f = Q/6£S£bR<sub>s</sub>,
+From the above equations, one obtains f<sub>v</sub> = QE, or U (electrophoretic mobility) = v/E = Q/f = Q/6<span>&#163;</span>S<span>&#163;</span>bR<sub>s</sub>,  
 
 The above equation shows that the electrophoretic mobility, U, is directly proportional to the charge (Q) and inversely proportional to the particle size (Rs) and the coefficient of viscosity (?) of the medium. Q/Rs is also known as the charge density of the particle. Thus the electrophoretic mobility in a given medium varies depending on the charge density of the particles. The direction of particle movement under an applied field depends on the nature of electric charge on the particle (positively charged particles to the cathode and the negatively charged ones to the anode). Since under an electric field the directions and rates of motion of particles in a medium vary depending on their charges and charge densities, application of the electric field for a given period of time could result in completely different displacements for different particles. This forms the basis of separation of charged particles via electrophoresis.
 
