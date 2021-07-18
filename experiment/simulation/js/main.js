@@ -16,7 +16,7 @@ async function moveMold() {
     a1.add({
       duration: 1000,
       translateY: 260,
-      translateX: 800,
+      translateX: 610,
       scale: 0.25,
     })
       .add({
@@ -129,14 +129,14 @@ async function movePipette() {
 async function moveDyePipette() {
   restartAnimation = false;
   if (overallIteration === 3) {
-    let colors = ["purple", "blue", "yellow", "red", "green", "black"];
+    let colors = ["purple", "blue", "yellow", "red", "green", "midnightblue"];
     let i;
 
     for (i = 0; i <= 5; i++) {
       changeMessage();
       let col = colors[i];
-      let startXes = ["2600%", "2800%", "2900%", "3000%", "3100%", "3200%"];
-      let startYes = ["-128%", "-128%", "-122%", "-132%", "-139%", "-145%"];
+      let startXes = ["2650%", "2800%", "2950%", "3050%", "3200%", "3350%"];
+      let startYes = ["-135%", "-135%", "-135%", "-140%", "-140%", "-145%"];
 
       screenWidth();
 
@@ -220,8 +220,8 @@ async function moveComb() {
       })
       .add({
         duration: 700,
-        translateX: "67%",
-        translateY: "-210%",
+        translateX: "50%",
+        translateY: "-180%",
       })
       .add({
         rotate: [7, 0, -7, 0],
@@ -248,11 +248,11 @@ async function moveComb() {
   }
 }
 
-async function moveSyringe() {
-  if (overallIteration === 4) {
-    restartAnimation = false;
-  }
-}
+// async function moveSyringe() {
+//   if (overallIteration === 4) {
+//     restartAnimation = false;
+//   }
+// }
 
 let setupMessages = [
   "Click on the Gel Beaker option in the Apparatus Menu to introduce it into the workspace.",
