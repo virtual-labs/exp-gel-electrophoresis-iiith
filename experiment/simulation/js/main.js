@@ -12,11 +12,20 @@ async function moveMold() {
     duration: 800,
     easing: "linear",
   });
+  let transX = 610;
+  let transY = 260;
+
+  screenWidth();
+
+  if (divWidth < 769) {
+    transY = 400;
+    transX = -30;
+  }
   if (overallIteration === 4) {
     a1.add({
       duration: 1000,
-      translateY: 260,
-      translateX: 610,
+      translateY: transY,
+      translateX: transX,
       scale: 0.25,
     })
       .add({
@@ -83,16 +92,6 @@ async function movePipette() {
     screenWidth();
     console.log("divWudth is:", divWidth);
 
-    if (divWidth > 1759) {
-      startY = "-150%";
-      startX = "450%";
-    }
-
-    if (divWidth < 769) {
-      startY = "120%";
-      startX = "-980%";
-    }
-
     a1.add({
       duration: 0,
       translateY: startY,
@@ -139,6 +138,11 @@ async function moveDyePipette() {
       let startYes = ["-135%", "-135%", "-135%", "-140%", "-140%", "-145%"];
 
       screenWidth();
+
+      if (divWidth < 769) {
+        startXes = ["550%", "700%", "850%", "1000%", "1150%", "1250%"];
+        startYes = ["350%", "350%", "350%", "350%", "330%", "310%"];
+      }
 
       let endX = "1300%";
       let endY = "-132%";
@@ -412,11 +416,6 @@ async function observe() {
 
 let beaker = document.getElementById("gel-beaker");
 beaker.addEventListener("click", movePipette);
-
-let jrcell = document.getElementById("jrcell");
-jrcell.addEventListener("click", function () {
-  moveJrCell(0);
-});
 
 let slider = document.getElementById("slider");
 let vid = document.getElementById("animation-bottom-right");
