@@ -2,7 +2,7 @@ Suppose a particle with charge, +Q, is moving toward the negative electrode (cat
 
 F<sub>net</sub> = F<sub>e</sub> + F<sub>fr</sub> = 0	
 
-The frictional force is given by, F<sub>fr</sub> = -f<sub>v</sub> , where f is a constant called the frictional coefficient and v is the velocity of the particle. The frictional coefficient, f, depends on the size and shape of the molecule. For a spherical particle the frictional coefficient is given by f = 6 <span>&#163;</span> S<span>&#163;</span>bRs, where <span>&#163;</span>b is¡P is the coefficient of viscosity and Rs (Stokes radius) is the radius of the hydrated sphere.
+The frictional force is given by, F<sub>fr</sub> = -f<sub>v</sub> , where f is a constant called the frictional coefficient and v is the velocity of the particle. The frictional coefficient, f, depends on the size and shape of the molecule. For a spherical particle the frictional coefficient is given by f = 6<span>&#163;</span>S<span>&#163;</span>bRs, where <span>&#163;</span>b is i<sup>P</sup> is the coefficient of viscosity and Rs (Stokes radius) is the radius of the hydrated sphere.
 
 From the above equations, one obtains f<sub>v</sub> = QE, or U (electrophoretic mobility) = v/E = Q/f = Q/6<span>&#163;</span>S<span>&#163;</span>bR<sub>s</sub>,  
 
