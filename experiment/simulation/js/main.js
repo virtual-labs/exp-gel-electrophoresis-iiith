@@ -90,7 +90,6 @@ async function movePipette() {
     let startY = "-150%";
 
     screenWidth();
-    console.log("divWudth is:", divWidth);
 
     a1.add({
       duration: 0,
