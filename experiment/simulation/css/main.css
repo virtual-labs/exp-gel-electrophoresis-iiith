@@ -9,12 +9,6 @@
   font-size: 120%;
 }
 
-.workspace {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
 .heavy {
   font-size: 2.2rem;
 }
