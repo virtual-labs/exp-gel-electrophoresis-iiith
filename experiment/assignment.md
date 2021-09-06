@@ -1,4 +1,4 @@
- **Pre-Experiment**
+ **Pre-Assignment**
     
 1. How can the size of the molecules be determined from their migration distance on the finished gel?      
 2. Is there any direct relationship between the molar mass and the size of these dye molecules? Illustrate.     
@@ -9,7 +9,7 @@
 7.  What are the effects of variations in the applied voltage on the gel electrophoresis?    
 8.  What is the function of the comb?  
 
-**Post-Experiment**
+**Post-Assignment**
 
 1. Why does one see bubbles coming out in the electrode chambers?     
 2. Why had all the dyes not moved in the same direction through the gel?    
