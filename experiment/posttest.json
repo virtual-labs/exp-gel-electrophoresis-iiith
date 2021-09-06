@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Gel electrophoresis is used to separate DNA fragments on the basis of which property?",
+      "answers": {
+        "a": "size",
+        "b": "color",
+        "c": "functions",
+        "d": "chromosomes"
+      },
+      "explanations": {
+        "a": "gel electrophoresis separates DNA fragments on the basis of their size.",
+        "b": "color is used only to study the plates after migration is done.",
+        "c": "functions of DNA do not play any role in separation.",
+        "d": "chromosomes of DNA do not play any role in separation."
+      },
+      "difficulty": "beginner",
+      "correctAnswer": "a"
+    },
+    {
+      "question": "2. Which of the following statements about agarose gel electrophoresis is False?",
+      "answers": {
+        "a": "Electrophoresis in agarose is a common way to separate DNA molecules according to size",
+        "b": "Ethidium bromide is used to detect DNA",
+        "c": "Under the influence of the electrical field, positively charged DNA will migrate towards the negative charged end of the gel.",
+        "d": "Dye is sprayed at the end of the run."
+      },
+      "explanations": {
+        "a": "Gel Electrophoresis (where the gel is agarose) is used to separate and study DNA fragments.",
+        "b": "Ethidium bromide is a buffer used to increase mobility of DNA fragments and not detection",
+        "c": "DNA is negatively charged and moves towards the positively charged end of the well.",
+        "d": "Dye is added before loading the DNA into the wells."
+      },
+      "difficulty": "beginner",
+      "correctAnswer": "a"
+    },
+    {
+      "question": "3. Why do scientists load DNA of known sizes into the agarose gel?",
+      "answers": {
+        "a": "It makes it easier to determine sizes of unknowns using comparison techniques.",
+        "b": "To fill in all the slots on the gel so you can run it.",
+        "c": "To practice loading the DNA before you get to the important DNA.",
+        "d": "So you know how long the gel needs to run."
+      },
+      "explanations": {
+        "a": "You can then estimate the size of the DNA in the sample by matching them against the closest band in the marker.",
+        "b": "Empty slots can be kept in the gel too without any issues.",
+        "c": "DNA marker (DNA of known size) has nothing to do with practicing loading DNA.",
+        "d": "Dye is added to all DNA samples to mark the time of run."
+      },
+      "difficulty": "intermediate",
+      "correctAnswer": "a"
+    },
+    {
+      "question": "4. A student performed a gel electrophoresis experiment. The results are represented in the diagram below. Compared to the fragments at the top of the gel, the fragments at the lower end are: <img src='./images/post4.png'>",
+      "answers": {
+        "a": "larger, and move slower",
+        "b": "larger, and move faster",
+        "c": "smaller, and move faster",
+        "d": "smaller, and move slower"
+      },
+      "explanations": {
+        "a": "The longer distance they travel the faster they are moving. Hence the ones at the lower end have travelled faster.",
+        "b": "larger molecules travel slower.",
+        "c": "smaller molecules travel faster and will reach the lower end quicker.",
+        "d": "smaller fragments move faster."
+      },
+      "difficulty": "advanced",
+      "correctAnswer": "c"
+    }
+  ]
+}

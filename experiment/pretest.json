@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The speed of migration of ions in an electric field depends on:",
+      "answers": {
+        "a": "magnitude of charge and mass on molecules",
+        "b": "magnitude of charge and shape of molecules",
+        "c": "shape of molecule",
+        "d": "magnitude of charge, shape and mass of molecules"
+      },
+      "explanations": {
+        "a": "speed of migration depends on the charge of the molecule but does not depend on mass directly.",
+        "b": "charge and shape of molecule play a key role in the mobility in solvent medium. Higher the charge and smaller the shape, the greater the mobility.",
+        "c": "shape alone does not play much of an important role.",
+        "d": "mass does not affect the speed much."
+      },
+      "difficulty": "beginner",
+      "correctAnswer": "b"
+    },
+    {
+      "question": "2. What is the advantage of gels which have porous network structures:",
+      "answers": {
+        "a": "eliminates thermal convection forces.",
+        "b": "traverses particles faster.",
+        "c": "increases thermal convection forces.",
+        "d": "can maintain the finished separation for a shorter period only."
+      },
+      "explanations": {
+        "a": "Gels which have porous network structures allow movement of solvent and solute particles through the pores. This helps to eliminate thermal convection forces in the liquid medium which would interfere with the separation process.",
+        "b": "The pore size and the network structure of the gel provide an additional sieving mechanism by retarding the motion of particles/molecules that increases the resolving power of this separation technique.",
+        "c": "reduces thermal convection forces.",
+        "d": "gels can maintain the finished separation over a long period of time, which is necessary for many post electrophoresis operations."
+      },
+      "difficulty": "intermediate",
+      "correctAnswer": "a"
+    },
+    {
+      "question": "3. In preparation for an electrophoresis procedure, enzymes are added to DNA in order to:",
+      "answers": {
+        "a": "convert the DNA into gel",
+        "b": "cut the DNA into fragments",
+        "c": "change the color of the DNA",
+        "d": "produce longer sections of DNA"
+      },
+      "explanations": {
+        "a": "enzymes cannot convert DNA into gel.",
+        "b": "enzymes are known to digest and break DNA into smaller fragments, which help increase the mobility of the fragments.",
+        "c": "color of the DNA is changed by dyes.",
+        "d": "enzymes can only cut DNA and not join them."
+      },
+      "difficulty": "intermediate",
+      "correctAnswer": "b"
+    },
+    {
+      "question": "4. What would happen if you left the gel accidentally in the gel electrophoresis chamber for too long?",
+      "answers": {
+        "a": "DNA strands would stop moving.",
+        "b": "DNA strands would break down further into smaller fragments.",
+        "c": "The DNA strands would continue to move through the gel.",
+        "d": "The DNA strands would react with the gel."
+      },
+      "explanations": {
+        "a": "DNA strands would continue to move till the electric field is applied.",
+        "b": "fragmentation of DNA occurs only till it is in contact with enzymes.",
+        "c": "the DNA strands would not stop, they would continue to move through the gel into the buffer.",
+        "d": "DNA strands do not react with gel."
+      },
+      "difficulty": "advanced",
+      "correctAnswer": "c"
+    }
+  ]
+}
