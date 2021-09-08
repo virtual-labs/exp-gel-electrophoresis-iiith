@@ -1,5 +1,1 @@
-The aim of this experiment is:
-
-1. To develop familiarity with the procedures of a gel electrophoresis technique for the separation of molecules;
-2. To separate several dyes of different molecular sizes and charges;
-3. To determine the components of an unknown dye mixture by using agar gel electrophoresis.
+Electrophoresis is an electrokinetic phenomenon. It involves movement of charged dispersed particles with respect to the dispersion medium under the influence of a spatially uniform electric field. Ferdinand Frederic Reuss reported observation of this phenomenon for the first time in 1807. Electrophoresis of positively charged particles or cations is termed as cataphoresis and similarly the electrophoresis of negatively charged particles or anions is termed as anaphoresis. Electrophoresis phenomenon provides an anlytical technique for the separation of charged particles/molecules by applying electric field. These days electrophoresis is often conducted by using agar or polyacrylamide gels as media and the technique is known as 'gel electrophoresis'. Gel electrophoresis technique is often used in biotechnology and forensic laboratories for separation of biological macromolecules such as DNA, RNA, protein, etc. This has also been used for the size separation (based on mass to charge ratio) of nanoclusters and nanoparticles.  
